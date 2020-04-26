@@ -1,8 +1,8 @@
 # XXX: competition name
-COMPETITION := cat-in-the-dat-ii
+COMPETITION := cat-in-the-dat
 
 # gsed on macOS. sed on LINUX
-SED := gsed
+SED := sed
 
 # directories
 DIR_DATA := input
